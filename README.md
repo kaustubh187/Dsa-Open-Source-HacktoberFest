@@ -26,6 +26,7 @@ keep in mind that repo has hacktoberfest topic..
 
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
  <img src="https://img.shields.io/github/contributors/nearlegend/Dsa-Open-Source-HacktoberFest" >
+    <img src="https://img.shields.io/bitbucket/pr/nearlegend/Dsa-Open-Source-HacktoberFest">
 </div>
 
 </p>
