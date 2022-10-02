@@ -5,3 +5,8 @@
 3. Add your Name also link your github profile
 4. Create a pull request
 5. We will add label to it and merge it ASAP!
+
+Contributors:
+
+1) Name: Jai Singhal
+   Profile: https://github.com/JaiSinghal02
