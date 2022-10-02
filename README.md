@@ -1,5 +1,7 @@
 # Dsa-Open-Source-HacktoberFest
-
+<h1 align="centre">
+    <b>  Data Structures and Algorithms  </b>
+</h1>
 
 
 
