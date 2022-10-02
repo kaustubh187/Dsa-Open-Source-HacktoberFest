@@ -1,4 +1,4 @@
-# Dsa-Open-Source-HacktoberFest
+
 <h1 align="centre">
     <b>  Data Structures and Algorithms  </b>
 </h1>
@@ -14,6 +14,20 @@ i will recommend you make pull request to your own repo which is very very saffe
 keep in mind that repo has hacktoberfest topic..
 
 </P>
+<p align="center">
+<a href="https://hacktoberfest.digitalocean.com/">
+        <img src="https://user-images.githubusercontent.com/39916680/193060738-1facbd63-c6a3-4f84-9473-f9d7b2ee7f8c.png" width="70%">
+    </a>
+    <h1 align="center"> Hacktoberfest 2022 🎉</h1>
+    <div align="center">
+  
+<img src="https://img.shields.io/badge/HacktoberFest-2022-blueviolet" alt="Hacktober Badge"/>
+
+
+ <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+</div>
+
+</p>
 
 
 
