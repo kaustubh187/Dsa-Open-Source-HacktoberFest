@@ -28,6 +28,7 @@ keep in mind that repo has hacktoberfest topic..
  <img src="https://img.shields.io/github/contributors/nearlegend/Dsa-Open-Source-HacktoberFest" >
     <img src="https://img.shields.io/bitbucket/pr/nearlegend/Dsa-Open-Source-HacktoberFest">
    <img src="https://img.shields.io/github/license/nearlegend/Dsa-Open-Source-HacktoberFest?color=Pink&style=flat-square">
+    <img src= "https://img.shields.io/github/forks/nearlegend/Dsa-Open-Source-HacktoberFest?color=blue&style=flat-square">
 </div>
 
 </p>
